@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1637335144 source:c:\users\aga\desktop\programowanie obiektowe\projekt\miejsce.cpp
+	<iostream>
+	"Miejsce.h"
+
+1637510436 c:\users\aga\desktop\programowanie obiektowe\projekt\miejsce.h
+	<iostream>
+
+1638538076 source:c:\users\aga\desktop\programowanie obiektowe\projekt\roslina.cpp
+	<iostream>
+	"Roslina.h"
+
+1638556128 source:c:\users\aga\desktop\programowanie obiektowe\projekt\main.cpp
+	<iostream>
+	<fstream>
+	"Roslina.h"
+	"Menu.h"
+
+1638624960 c:\users\aga\desktop\programowanie obiektowe\projekt\roslina.h
+	<iostream>
+	"Data.h"
+
+1638625211 source:c:\users\aga\desktop\programowanie obiektowe\projekt\data.cpp
+	<iostream>
+	"Data.h"
+
+1638625211 c:\users\aga\desktop\programowanie obiektowe\projekt\data.h
+	<iostream>
+
+1638555919 source:c:\users\aga\desktop\programowanie obiektowe\projekt\menu.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<string>
+	"Menu.h"
+
+1637754078 source:c:\users\aga\desktop\programowanie obiektowe\projekt\kwitnaca.cpp
+	<iostream>
+	"Kwitnaca.h"
+	<windows.h>
+
+1637689356 c:\users\aga\desktop\programowanie obiektowe\projekt\kwitnaca.h
+	<iostream>
+	"Roslina.h"
+
+1637754078 source:c:\users\aga\desktop\programowanie obiektowe\projekt\sukulent.cpp
+	<iostream>
+	"Sukulent.h"
+	<windows.h>
+
+1637687560 c:\users\aga\desktop\programowanie obiektowe\projekt\sukulent.h
+	<iostream>
+	"Roslina.h"
+
+1637688804 c:\users\aga\desktop\programowanie obiektowe\projekt\zielona.h
+	<iostream>
+	"Roslina.h"
+
+1637753887 source:c:\users\aga\desktop\programowanie obiektowe\projekt\zielona.cpp
+	<iostream>
+	"Zielona.h"
+	<windows.h>
+
+1638624961 c:\users\aga\desktop\programowanie obiektowe\projekt\menu.h
+	<iostream>
+	<vector>
+	"Zielona.h"
+	"Kwitnaca.h"
+	"Sukulent.h"
+
+1638212395 c:\users\aga\desktop\programowanie obiektowe\projekt\menu.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<string>
+	"Menu.h"
+
